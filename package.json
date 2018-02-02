@@ -1,0 +1,17 @@
+{
+  "name": "cypher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypher.js",
+  "dependencies": {
+    "html-entities": "^1.2.1",
+    "random-quote": "0.0.1",
+    "striptags": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
